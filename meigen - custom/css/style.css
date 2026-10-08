@@ -1,0 +1,6 @@
+img {
+	/* 画像を200x200の正方形でトリミング */
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
